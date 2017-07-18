@@ -20,7 +20,8 @@ To get started, check out <https://flyve-mdm.com/>!
 * [Installation](#installation)
 * [Code Example](#code-example)
 * [Documentation](#documentation)
-* [Contributors](#contributors)
+* [Contribute](#contribute)
+* [Contact](#contact)
 * [Copying](#copying)
 
 ## Synopsis
@@ -95,10 +96,16 @@ inventoryTask.execute();
 
 We share long-form content about the project in the [wiki](https://github.com/flyve-mdm/flyve-mdm-android-inventory/wiki).
 
-## Contributors
+## Contact
 
-* [@rafaelje](https://github.com/rafaelje)
-* [@ajsb85](https://github.com/ajsb85)
+For notices about major changes and general discussion of Flyve MDM development, subscribe to the [/r/FlyveMDM](http://www.reddit.com/r/FlyveMDM) subreddit. 
+You can also chat with us via IRC in [#flyve-mdm on freenode](http://webchat.freenode.net/?channels=flyve-mdm]).
+Ping me @rafaelje in the IRC chatroom if you get stuck.
+
+## Contribute
+
+Want to file a bug, contribute some code, or improve documentation? Excellent! Read up on our
+guidelines for [contributing](./CONTRIBUTING.md) and then check out one of our issues in the [Issues Dashboard](https://github.com/flyve-mdm/flyve-mdm-android-inventory/issues).
 
 ## Copying
 
